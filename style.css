@@ -1,0 +1,30 @@
+body{
+    color: white;
+background: black;
+ margin: 0px;
+ font-family: "Metal Mania", system-ui;
+
+}
+header{
+    padding: 20px;
+    border-bottom: solid 2px white;
+    font-size: 32px;
+    color: rgb(50, 35, 150)
+}
+section {
+    background: rgb(14, 4, 26);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamar-texto{
+    margin-right: 5px;
+}
+h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
